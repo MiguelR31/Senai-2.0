@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    
+}
+header img{
+    position: absolute;
+    margin-top: -0px;
+}
+
+header{
+    background-color: #004C9B;
+    height: 110px;
+    color: white;
+}
+h2{
+    height: 8px;
+    text-align: center;
+    color: #004C9B;
+    text-decoration-color: #004C9B;
+}
+.tabela {
+
+    
+
+}
+
+
+/* 
+.turmas{
+    background-color: #eeedec;
+    height: 700px;
+    margin-top: -0px;
+    text-align: center;
+    padding: 14px;
+    width: 300px;
+    
+}
+.turmas a{
+  margin-top: 6px;
+}
+
